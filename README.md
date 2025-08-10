@@ -71,10 +71,12 @@ Follow these instructions to get a local copy of the project up and running for 
 ## Application Screenshots
 
 **User Dashboard (Viewing Stores)**
-![User Dashboard](https://i.imgur.com/c3795e5f-609f-47a9-b30b-c811ca8f93da.png)
+<img width="1920" height="869" alt="image (2)" src="https://github.com/user-attachments/assets/4107bf12-9d42-4707-8c74-91c87beddb07" />
 
 **Login Page**
-![Login Page](https://i.imgur.com/ee07f216-ea6a-4682-a9cb-0bd8fc9dedbd.png)
+
+<img width="1920" height="861" alt="image (1)" src="https://github.com/user-attachments/assets/938e4c1f-43ba-4dea-9e26-2b1c7a30b3fe" />
 
 **Welcome / Landing Page**
-![Welcome Page](https://i.imgur.com/26dc6ed6-401a-4b85-9f59-fb3760148633.png)
+<img width="1920" height="870" alt="image" src="https://github.com/user-attachments/assets/c39ea9ad-59ab-49b1-b946-20d729658827" />
+
